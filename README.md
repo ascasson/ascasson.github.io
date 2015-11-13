@@ -25,4 +25,11 @@ Addes CSS styles sheet.
 Driver: Darnell Holder
 Navigator: Anthony Casson
 
+UPDATE 11.12.2015
+
+Added link to Darnell Holder's game. Note that this code was authored primarily by Darnell Holder. Darnell Holder's game was primarily authored by Anthony Casson - a result of pair programming exercise.
+
+Driver: Darnell Holder
+Navigator: Anthony Casson
+
 
